@@ -1,0 +1,15 @@
+{
+  "name": "pnpm-peer-dep-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plasmo": "0.85.2"
+  }
+}
